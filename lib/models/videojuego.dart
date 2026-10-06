@@ -1,4 +1,4 @@
-class videojuego {
+class Videojuego {
   final String estudio;
   final String titulo;
   final List<String> generos;
